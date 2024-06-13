@@ -13,6 +13,7 @@ from lightning.app.utilities.state import AppState
 from streamlit_autorefresh import st_autorefresh
 from typing import Optional
 
+
 from lightning_pose_app import (
     LABELED_DATA_DIR,
     MODEL_VIDEO_PREDS_INFER_DIR,
